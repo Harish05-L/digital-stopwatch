@@ -50,7 +50,7 @@ A micro-project for the course **22ECT31 - Digital Electronics**, implemented us
 
 ## 👨‍💻 Team Members
 
-- Harish L (23ECR0)
+- Harish L (23ECR076)
 - Kishorekumar S (23ECR117)
 - Prasath R (23ECL255)
 
